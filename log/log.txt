@@ -1,0 +1,26 @@
+# 在auto_setup接口里设置logdir，用于保存log内容
+# logdir可以传入具体的log保存路径，或者是True，传入True表示在当前项目目录下生成log内容
+
+auto_setup(__file__,logdir=True)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
